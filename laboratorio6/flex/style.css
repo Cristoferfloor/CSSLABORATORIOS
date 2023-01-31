@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    display: flex;
+    flex-direction: wrap;
+    justify-content: space-evenly;
+}
+
+.contaner{
+    border: 0.3rem solid black;
+
+}
+.box{
+    width: 10rem;
+    height: 10rem;
+}
+
+.box1{
+    background-color: beige;
+}
+.box2{
+    background-color: rgb(222, 245, 220);
+}
+.box3{
+    background-color: rgb(202, 188, 212);
+}
+.box4{
+    background-color: rgb(202, 115, 159);
+}
+.box5{
+    background-color: rgb(221, 245, 220);
+}
+.box6{
+    background-color: rgb(59, 149, 201);
+}
